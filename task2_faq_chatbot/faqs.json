@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What are the college admission requirements?",
+    "answer": "Admission requirements usually include the completed application, required academic documents, photographs, and any entrance-test or eligibility documents specified by the college."
+  },
+  {
+    "question": "How can I apply for admission?",
+    "answer": "Complete the online application form, upload the required documents, pay the application fee if applicable, and submit the form before the stated deadline."
+  },
+  {
+    "question": "What is the admission deadline?",
+    "answer": "The admission deadline depends on the course and admission cycle. Please check the latest official college admission notice."
+  },
+  {
+    "question": "How can I contact the college office?",
+    "answer": "Use the official college website, office phone number, or official email address listed by the institution."
+  },
+  {
+    "question": "How do I reset my student portal password?",
+    "answer": "Use the Forgot Password option on the student portal and follow the verification steps. If that fails, contact the college IT/help desk."
+  },
+  {
+    "question": "How can I check my exam timetable?",
+    "answer": "Check the examination section of the official college website or the student portal for the latest timetable."
+  },
+  {
+    "question": "Where can I pay college fees?",
+    "answer": "Use the official fee-payment portal or the payment method specified in the latest college fee notice."
+  },
+  {
+    "question": "How can I get a library card?",
+    "answer": "Contact the library desk with your valid student ID and complete the library registration procedure."
+  }
+]
